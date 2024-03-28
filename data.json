@@ -1,0 +1,82 @@
+
+[
+    {
+        "id": 1,
+        "img1": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1711444351_3682693.jpg?format=webp&w=480&dpr=1.3",
+        "img2": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1711444351_3029557.jpg?format=webp&w=480&dpr=1.3",
+        "title": "Naruto: Yellow Flash",
+        "oldprice": "₹ 999",
+        "price": "₹ 799"
+    },
+    {
+        "id": 2,
+        "img1": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1711445834_7512840.jpg?format=webp&w=480&dpr=1.3",
+        "img2": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1711445834_5393883.jpg?format=webp&w=480&dpr=1.3",
+        "title": "Naruto: Drunken Fist",
+        "oldprice": "₹ 999",
+        "price": "₹ 799"
+    },
+    {
+        "id": 3,
+        "img1": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1711013609_8490801.jpg?format=webp&w=480&dpr=1.3",
+        "img2": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1711013609_9957204.jpg?format=webp&w=480&dpr=1.3",
+        "title": "Pennywise: Time To Float",
+        "oldprice": "₹ 999",
+        "price": "₹ 799"
+    },
+    {
+        "id": 4,
+        "img1": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1711434746_5255162.jpg?format=webp&w=480&dpr=1.3",
+        "img2": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1711434746_3156593.jpg?format=webp&w=480&dpr=1.3",
+        "title": "Dungeons & Dragons: Vintage",
+        "oldprice": "₹ 999",
+        "price": "₹ 799"
+    },
+    {
+        "id": 5,
+        "img1": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1711002242_3913259.jpg?format=webp&w=480&dpr=1.3",
+        "img2": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1710586236_4798900.jpg?format=webp&w=480&dpr=1.3",
+        "title": "The Boys: Only Man In The Sky",
+        "oldprice": "₹ 999",
+        "price": "₹ 799"
+    },
+    {
+        "id": 6,
+        "img1": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1711437604_6031928.jpg?format=webp&w=480&dpr=1.3",
+        "img2": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1711437604_2427370.jpg?format=webp&w=480&dpr=1.3",
+        "title": "Spider-Man: Plaid Power",
+        "oldprice": "₹ 999",
+        "price": "₹ 899"
+    },
+    {
+        "id": 7,
+        "img1": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1667644726_8653784.jpg?format=webp&w=480&dpr=1.3",
+        "img2": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1667644726_6316268.jpg?format=webp&w=480&dpr=1.3",
+        "title": "Solids: Pastel Pink Colour Block",
+        "oldprice": "₹ 999",
+        "price": "₹ 799"
+    },
+    {
+        "id": 8,
+        "img1": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1710915257_2453511.jpg?format=webp&w=480&dpr=1.3",
+        "img2": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1688213575_2147508.jpg?format=webp&w=480&dpr=1.3",
+        "title": "Batman: Supervillain",
+        "oldprice": "₹ 999",
+        "price": "₹ 799"
+    },
+    {
+        "id": 9,
+        "img1": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1710603466_1846062.jpg?format=webp&w=480&dpr=1.3",
+        "img2": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1710603466_9345429.jpg?format=webp&w=480&dpr=1.3",
+        "title": "Disney: Carpenheimer",
+        "oldprice": "₹ 999",
+        "price": "₹ 799"
+    },
+    {
+        "id": 10,
+        "img1": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1710517908_5650177.jpg?format=webp&w=480&dpr=1.3",
+        "img2": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1684499338_1910084.jpg?format=webp&w=480&dpr=1.3",
+        "title": "Solids: White & Berry Colourblock",
+        "oldprice": "₹ 999",
+        "price": "₹ 799"
+    }]
